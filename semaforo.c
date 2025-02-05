@@ -39,6 +39,7 @@ bool repeating_timer_callback(struct repeating_timer *t) {
     return true;  // Mantém o temporizador ativo
 }
 
+
 int main() {
     //stdio_init_all();
 
